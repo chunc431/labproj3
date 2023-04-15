@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Bibimbap",
+      "ingredients": "Rice, vegetables (carrots, cucumber, bean sprouts, spinach, mushrooms), beef, gochujang (red pepper paste), sesame oil, soy sauce",
+      "description": "A popular Korean rice dish topped with various seasoned vegetables, meat, and gochujang sauce.",
+      "recommend": false,
+      "level": "easy"
+    },
+    {
+      "name": "Japchae",
+      "ingredients": "Sweet potato noodles, beef, spinach, carrots, mushrooms, onions, sesame oil, soy sauce, sugar",
+      "description": "A stir-fried Korean noodle dish made with sweet potato noodles and a variety of vegetables.",
+      "recommend": false,
+      "level": "easy"
+    },
+    {
+      "name": "Kimchi",
+      "ingredients": "Napa cabbage, red pepper flakes, garlic, ginger, fish sauce, salt, sugar",
+      "description": "A traditional Korean side dish made with fermented vegetables, most commonly Napa cabbage, and spicy seasoning.",
+      "recommend": true,
+      "level": "medium"
+    },
+    {
+      "name": "Korean Fried Chicken",
+      "ingredients": "Chicken wings or drumettes, cornstarch, flour, baking powder, soy sauce, garlic, ginger, gochujang (red pepper paste), honey",
+      "description": "Crispy fried chicken with a sweet and spicy sauce, often served as an appetizer or snack.",
+      "recommend": false,
+      "level": "medium"
+    },
+    {
+      "name": "Tteokbokki",
+      "ingredients": "Rice cakes, fish cakes, gochujang (red pepper paste), sugar, soy sauce, garlic, onion, green onion",
+      "description": "A popular Korean street food made with spicy, stir-fried rice cakes and fish cakes.",
+      "recommend": true,
+      "level": "easy"
+    },
+    {
+      "name": "Samgyeopsal",
+      "ingredients": "Pork belly, garlic, salt, sesame oil, soybean paste, lettuce, ssamjang (spicy dipping sauce), kimchi",
+      "description": "A Korean BBQ dish consisting of thick slices of pork belly, often grilled at the table and wrapped in lettuce with a variety of condiments.",
+      "recommend": false,
+      "level": "easy"
+    },
+    {
+      "name": "Haemul Pajeon",
+      "ingredients": "Seafood (shrimp, squid), scallions, flour, eggs, water, salt, pepper",
+      "description": "A savory Korean pancake made with seafood and scallions, often served as a snack or appetizer.",
+      "recommend": false,
+      "level": "medium"
+    },
+    {
+      "name": "Galbi",
+      "ingredients": "Beef short ribs, soy sauce, sugar, garlic, sesame oil, scallions, black pepper",
+      "description": "A popular Korean BBQ dish made with marinated beef short ribs, often grilled at the table and served with various condiments.",
+      "recommend": true,
+      "level": "easy"
+    },
+    {
+      "name": "Jajangmyeon",
+      "ingredients": "Noodles, black bean paste, pork belly, onion, zucchini, potato, sugar, oil",
+      "description": "A Korean-Chinese dish made with thick noodles in a savory black bean sauce with diced pork and vegetables.",
+      "recommend": false,
+      "level": "hard"
+    },
+    {
+      "name": "Kimbap",
+      "ingredients": "Rice, seaweed, carrots, spinach, cucumber, pickled radish, eggs, ham, crab meat, sesame oil",
+      "description": "A Korean rice roll similar to sushi, filled with a variety of vegetables, meat, and other ingredients.",
+      "recommend": false,
+      "level": "easy"
+    },
+    {
+      "name": "Bulgogi",
+      "ingredients": "Beef, soy sauce, sugar, garlic, sesame oil, scallions, black pepper",
+      "description": "A popular Korean BBQ dish made with marinated beef, often grilled at the table and served with various condiments.",
+      "recommend": true,
+      "level": "easy"
+    },
+    {
+      "name": "Jjimdak",
+      "ingredients": "Chicken, soy sauce, sugar, garlic, ginger, onion, potato, carrots, scallions",
+      "description": "A Korean braised chicken dish with a sweet and savory soy sauce-based broth, often served with noodles or rice.",
+      "recommend": true,
+      "level": "hard"
+    },
+    {
+      "name": "Kongnamul Guk",
+      "ingredients": "Soybean sprouts, beef or anchovy broth, garlic, scallions, sesame oil",
+      "description": "A light Korean soup made with soybean sprouts and a flavorful broth.",
+      "recommend": false,
+      "level": "medium"
+    },
+    {
+      "name": "Mul Naengmyeon",
+      "ingredients": "Buckwheat noodles, beef broth, pear, vinegar, mustard, sesame oil, sliced beef, boiled egg, cucumber",
+      "description": "A Korean cold noodle soup made with buckwheat noodles, beef broth, and a tangy sauce.",
+      "recommend": true,
+      "level": "medium"
+    },
+    {
+      "name": "Budae Jjigae",
+      "ingredients": "Spam, hot dogs, instant noodles, kimchi, tofu, onions, scallions, garlic, gochujang (red pepper paste)",
+      "description": "A Korean stew made with a variety of ingredients, including Spam and instant noodles, that was popularized after the Korean War.",
+      "recommend": true,
+      "level": "easy"
+    },
+    {
+      "name": "Kimchi Fried Rice",
+      "ingredients": "Kimchi, rice, bacon or ham, onion, garlic, sesame oil, soy sauce, scallions",
+      "description": "A Korean fried rice dish made with kimchi and a variety of other ingredients, often served as a quick and easy meal.",
+      "recommend": true,
+      "level": "easy"
+    },
+    {
+      "name": "Yukgaejang",
+      "ingredients": "Beef, scallions, garlic, ginger, bean sprouts, fernbrake, mushrooms, hot pepper flakes, soy sauce",
+      "description": "A spicy Korean soup made with shredded beef and a variety of vegetables and seasonings.",
+      "recommend": true,
+      "level": "medium"
+    },
+    {
+      "name": "Sundubu Jjigae",
+      "ingredients": "Soft tofu, clams or beef, garlic, onion, zucchini, mushrooms, scallions, gochujang (red pepper paste)",
+      "description": "A Korean stew made with soft tofu and a variety of ingredients, often served with rice or other side dishes.",
+      "recommend": true,
+      "level": "medium"
+    },
+    {
+      "name": "Galbi JJim",
+      "ingredients": "Short ribs, scallion, onions, peppers, carrots, mushrooms, soy sauce, brown sugar, rice wine, sesame oil, garlic, water",
+      "description": "A traditional Korean dish made with braised beef short ribs in a savory and slightly sweet sauce.",
+      "recommend": true,
+      "level": "hard"
+    },
+    {
+      "name": "Dak Galbi",
+      "ingredients": "Chicken, sweet potato, cabbage, scallions, rice cake, gochujang (red pepper paste), soy sauce, garlic",
+      "description": "A Korean stir-fry dish made with marinated chicken, sweet potato, and other vegetables, often served with rice or noodles.",
+      "recommend": true,
+      "level": "hard"
+    }
+]
+    
